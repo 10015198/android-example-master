@@ -1,0 +1,11 @@
+.idea/
+build/
+local.properties
+*.iml
+*.log
+.gradle/
+.DS_Store
+# Project exclude paths
+/.github/
+/gradle/
+/library/
